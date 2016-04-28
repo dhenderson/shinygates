@@ -1,6 +1,6 @@
 # Shiny Gates
 
-Shiny Gates is a sample [Shiny Server][shiny] web application written for a session at the 2016 [Do Good Data][do-good] conference. The app enables users to browse [Gates Foundation][gates] grant amounts by duration and region.
+Shiny Gates is a sample [Shiny Server][shiny] web application written for a session at the 2016 [Do Good Data][do-good] conference. The app enables users to browse [Gates Foundation][gates] grant amounts by duration and region. You can view a [hosted version of this application here][app].
 
 This application is meant for learning purposes, do with it what you wish.
 
@@ -26,7 +26,9 @@ The data was pulled from the [Glasspockets][glass] API using an  [R Glasspockets
 - RStudio has a nice [tutorial on its website](http://shiny.rstudio.com/tutorial/)
 - This [gallery of Shiny apps](http://shiny.rstudio.com/gallery/) can help you get inspired about what to build
 - If you want push-button Shiny webapp hosting, check out [shinyapps.io](http://www.shinyapps.io/)
+- Hosted version of the [Shiny Gates application is available here][app]
 
+[app]: https://fiiorg.shinyapps.io/shinygates/
 [shiny]: http://shiny.rstudio.com/
 [glass]: http://glasspockets.org/
 [gates]: http://www.gatesfoundation.org/

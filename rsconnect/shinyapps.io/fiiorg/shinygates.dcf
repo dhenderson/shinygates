@@ -1,0 +1,10 @@
+name: shinygates
+account: fiiorg
+server: shinyapps.io
+appId: 98649
+bundleId: 436483
+url: https://fiiorg.shinyapps.io/shinygates/
+when: 1461814693.54696
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
