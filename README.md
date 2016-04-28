@@ -15,7 +15,7 @@ The app depends on the following packages. You can download packages in R with `
 - shiny
 - dplyr
 - ggplot2
-- tidyr`
+- tidyr
 
 ## Where the data comes from
 
