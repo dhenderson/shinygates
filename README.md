@@ -8,6 +8,15 @@ This application is meant for learning purposes, do with it what you wish.
 
 To start the application, open either the `server.R` or `ui.R` file in RStudio and press the "Run App" button.
 
+## Dependencies
+
+The app depends on the following packages. You can download packages in R with `install.packages("name_of_package")`.
+
+- shiny
+- dplyr
+- ggplot2
+- tidyr`
+
 ## Where the data comes from
 
 The data was pulled from the [Glasspockets][glass] API using an  [R Glasspockets API wrapper][wrapper]. The data pulled from Glasspockets was lightly massaged to better conform to the app's needs.
